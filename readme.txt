@@ -1,4 +1,4 @@
-Huffman Coding Compression and Decompression Tool
+**Huffman Coding Compression and Decompression Tool**
 
 Project Overview: Developed a comprehensive Huffman Coding tool in Python, leveraging the principles of data compression and decompression to optimize data storage and transmission.
 Key Features:
